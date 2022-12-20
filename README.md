@@ -1,2 +1,2 @@
 # DemoMinimal.API
-DemoMinimal.API / Teste
+Uma API Minimal completa e funcional!
