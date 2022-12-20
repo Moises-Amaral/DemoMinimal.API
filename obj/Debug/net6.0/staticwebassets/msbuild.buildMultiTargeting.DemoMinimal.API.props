@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DemoMinimal.API.props" />
+</Project>

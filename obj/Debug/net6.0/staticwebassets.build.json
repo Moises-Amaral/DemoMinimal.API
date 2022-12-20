@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HmC8/ZoDhqZOynKDhlRSzWga6Qz1vENuRCH8vfUgduo=",
+  "Source": "DemoMinimal.API",
+  "BasePath": "_content/DemoMinimal.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
